@@ -8,3 +8,15 @@ I love programming for 2 reasons:
 - programming lets me communicate with a "non-living" thing and tell it what I wan it to do fr me!
 
 I also play the guitar and I sail.
+
+Languages I know:
+- Italian
+- English
+- Turkish
+
+The other type of languages I know: 
+- C/C++
+- LabVIEW
+- python
+- processing
+- swift
